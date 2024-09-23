@@ -36,8 +36,8 @@ section#telefone {
 section#sociais {
   display: grid;
   position: absolute;
-  right: 0px
-  ;}
+  right: 0px;
+}
 
 section#sociais img {
   width: 50px;
